@@ -1,0 +1,21 @@
+{
+  "DISCORD_BOT_TOKEN": "BOT_TOKEN",
+  "BEARER_TOKEN": "BATTLEMETRICS_API_TOKEN",
+  "PUBLIC_CHANNEL_ID": "PUBLIC_CHANNEL_ID",
+  "PRIVATE_CHANNEL_ID": "PRIVATE_CHANNEL_ID",
+  "ORG_ID": "ORG_ID",
+  "SERVERS": [
+    {
+      "serverID": "1",
+      "Name": "Example Server 1"
+    },
+    {
+      "serverID": "2",
+      "Name": "Example Server 2"
+    },
+    {
+      "serverID": "3",
+      "Name": "Example Server 3"
+    }
+  ]
+}
